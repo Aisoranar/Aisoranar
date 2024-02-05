@@ -12,6 +12,8 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/Axios-BD1FE0?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+
 </p>
 
 _ _ _  
@@ -23,6 +25,8 @@ _ _ _
   <img src="https://img.shields.io/badge/Mongoose-00C58E?style=for-the-badge">
   <img src="https://img.shields.io/badge/firebase%20realtime%20database-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+
   
   
   
