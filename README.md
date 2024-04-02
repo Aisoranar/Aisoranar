@@ -1,3 +1,5 @@
+Aquí está tu perfil actualizado con Flutter y Laravel:
+
 ## Hola 👋 soy Aisor Anaya👨‍💻.
 
 ### Desarrollor Junior FullStack de Colombia en búsqueda de experiencia.
@@ -64,4 +66,4 @@ _ _ _
 ## 🌐 Socials:
  + [Front End Mentor Profile](https://www.frontendmentor.io/profile/Aisoranar)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aisor/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Aisor) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aisor/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Aisor)
